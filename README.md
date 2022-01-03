@@ -3,8 +3,8 @@ Tired of not knowing when the last pot of coffee was made,
 I developed a clock that only refreshes when a button is pressed.
 
 A button on the top of the device sends the order to refresh the time displayed
-on the LCD display, that will be freeze until the button is pressed again.
-A side switch changes the time to account for dayligh savings.
+on the LCD display, that will be frozen until the button is pressed again.
+A side switch changes the time to account for daylight savings.
 
 ## Components
 ### Electronics
